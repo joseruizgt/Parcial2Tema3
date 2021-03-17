@@ -25,4 +25,8 @@ Date:   Tue Mar 16 20:12:45 2021 -0600
     añadi el fichero bye.html
 
 commit a4de042e6f24056010bc06b8a8c7fd74fb76b88c
-:
+Author: joseruizgt <josedavidruizgt@gmail.com>
+Date:   Tue Mar 16 20:03:46 2021 -0600
+
+    archivos, se incluye el readme con la información del paso dos
+
